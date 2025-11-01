@@ -182,7 +182,7 @@ public class BMR_final {
     }
 
     public static void intro() {
-        System.out.println("This app is builded by Seth and Huy ");
+        System.out.println("This app is builded by Huy ");
         delay();
         System.out.println("The goal is to help people on their journey to meet their calories goals.");
         delay();

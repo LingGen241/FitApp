@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
-public class BMR {
+public class BMR_final {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Welcome to FitApp");
